@@ -7,7 +7,7 @@ The aim of this repo is to utilise incident summaries to deliver more content to
 
 We aim to do this by defining HVT's, providing type of HVT's and potentially group them. Subsequently to archive various incidents mapped to those groups which can be then used to create risk awareness training material. 
 
-This is at draft stage, awaiting formal review of my thesis (awaiting formal publication, will share link one done) and hoping to expand further over time. 
+This is at draft stage, awaiting formal review of my thesis (awaiting formal publication, will share link once done) and hoping to expand further over time. 
 
 Thanks for reading.
 
